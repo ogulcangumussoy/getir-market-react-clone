@@ -75,7 +75,7 @@ function HeroSection() {
 							<button className="h-12 flex items-center rounded-lg px-4 transition-colors bg-blue-700 bg-opacity-10 text-blue-900 text-sm font-semibold hover:bg-blue-900 hover:text-white">
 								<FaFacebook size={26} className="justify-self-start"/>
 								<span className="mx-auto">
-									Facebook ile devam et
+									Facebook ile devam et 
 								</span>
 							</button>
 						</div>
